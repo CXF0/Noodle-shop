@@ -1,0 +1,1 @@
+<view class="multiple-choice data-v-41fbb966"><view class="name data-v-41fbb966">{{name}}</view><view class="list data-v-41fbb966"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="i" wx:key="i"><list-item vue-id="{{'3422ea55-1-'+i}}" text="{{item}}" class="data-v-41fbb966" bind:__l="__l"></list-item></block></view></view>

@@ -1,0 +1,91 @@
+.inside-car .mask.data-v-4b2735cd {
+  background-color: rgba(0, 0, 0, 0.4);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 750rpx;
+  height: 100vh;
+  z-index: 50;
+}
+.inside-car .selected.data-v-4b2735cd {
+  background-color: white;
+  border-top-left-radius: 20rpx;
+  border-top-right-radius: 20rpx;
+  width: 750rpx;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 50;
+}
+.inside-car .selected .top.data-v-4b2735cd {
+  background-color: #f4f4f4;
+  width: 750rpx;
+  display: flex;
+  justify-content: flex-end;
+  color: #666666;
+  padding: 20rpx 30rpx;
+  box-sizing: border-box;
+}
+.inside-car .selected .top .left.data-v-4b2735cd {
+  margin-right: auto;
+}
+.inside-car .selected .scroll-view.data-v-4b2735cd {
+  max-height: 60vh;
+}
+.inside-car .selected .scroll-view .dishes.data-v-4b2735cd {
+  display: flex;
+  border-bottom: 1rpx solid #eee;
+}
+.inside-car .selected .scroll-view .dishes .left.data-v-4b2735cd {
+  border-right: 1rpx solid #eee;
+}
+.inside-car .selected .scroll-view .dishes .left .img.data-v-4b2735cd {
+  margin: 15rpx;
+  box-sizing: border-box;
+  display: block;
+  width: 175rpx;
+  height: 175rpx;
+}
+.inside-car .selected .scroll-view .dishes .right.data-v-4b2735cd {
+  width: 100%;
+  position: relative;
+}
+.inside-car .selected .scroll-view .dishes .right .text.data-v-4b2735cd {
+  font-size: 26rpx;
+  font-weight: 800;
+  position: absolute;
+  left: 20rpx;
+  top: 16rpx;
+}
+.inside-car .selected .scroll-view .dishes .right .price.data-v-4b2735cd {
+  color: #e1251b;
+  position: absolute;
+  left: 16rpx;
+  bottom: 20rpx;
+}
+.inside-car .selected .scroll-view .dishes .right .change.data-v-4b2735cd {
+  position: absolute;
+  right: 20rpx;
+  bottom: 20rpx;
+  text-align: center;
+}
+.inside-car .selected .scroll-view .dishes .right .change .quantity.data-v-4b2735cd {
+  position: relative;
+  bottom: 2rpx;
+  background-color: #f7f7f7;
+  padding: 2rpx 0;
+  width: 75rpx;
+  display: inline-block;
+  border-radius: 12rpx;
+}
+.inside-car .selected .scroll-view .dishes .right .change .add.data-v-4b2735cd,
+.inside-car .selected .scroll-view .dishes .right .change .cut.data-v-4b2735cd {
+  display: inline-block;
+  width: 50rpx;
+  color: #e1251b;
+  font-size: 50rpx;
+}
+.inside-car .selected .scroll-view .occupy-high.data-v-4b2735cd {
+  height: 200rpx;
+}
+

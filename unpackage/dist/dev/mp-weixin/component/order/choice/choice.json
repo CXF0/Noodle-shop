@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "multiple-choice": "/component/order/choice/multiple-choice"
+  }
+}

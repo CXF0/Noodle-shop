@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "left-bar": "/component/order/left-bar",
+    "column": "/component/order/column",
+    "finishing": "/component/order/finishing"
+  }
+}

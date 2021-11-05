@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['change']]]]}}" class="{{['list-item','data-v-21976fb2',(ifis)?'select':'']}}" bindtap="__e">{{text}}</view>

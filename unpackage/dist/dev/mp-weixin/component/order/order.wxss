@@ -1,0 +1,19 @@
+.order.data-v-f4b04dc6 {
+  background-color: #fafafa;
+  display: flex;
+}
+.order .left.data-v-f4b04dc6 {
+  flex: calc(200 / 750);
+  width: 200rpx;
+  background-color: #f1f1f1;
+}
+.order .left .top0.data-v-f4b04dc6 {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.order .rigth.data-v-f4b04dc6 {
+  flex: calc(550 / 750);
+  width: 550rpx;
+}
+

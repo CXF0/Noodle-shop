@@ -1,0 +1,18 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页
+		{
+			"path": "pages/index/index",
+			"style" :
+			{
+				"navigationBarTitleText": "重庆小面", // 页面标题
+				"enablePullDownRefresh": false // 是否启用下拉刷新
+			}
+		}
+  ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "重庆小面", // 页面默认标题
+		"navigationBarBackgroundColor": "#e1dbd8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

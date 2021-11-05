@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "重庆小面",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "banner": "/component/banner",
+    "order": "/component/order/order",
+    "shopping-cart": "/component/shopping-cart/shopping-cart"
+  }
+}

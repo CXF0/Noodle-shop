@@ -1,0 +1,69 @@
+.shopping-cart .rough.data-v-f491adea {
+  color: white;
+  position: fixed;
+  width: 700rpx;
+  height: 90rpx;
+  bottom: 40rpx;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  background-image: linear-gradient(to right, #f0a40a, #e83200);
+  border-radius: 80rpx;
+  z-index: 100;
+  text-shadow: -1px 1px 0 #e1251b, 1px 1px 0 #e1251b, 1px -1px 0 #e1251b, -1px -1px 0 #e1251b;
+}
+.shopping-cart .rough .img.data-v-f491adea {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 120rpx;
+  border: 5rpx solid #e1251b;
+  position: absolute;
+  left: 30rpx;
+  top: -40rpx;
+}
+.shopping-cart .rough .count.data-v-f491adea {
+  text-shadow: none !important;
+  font-size: 20rpx;
+  background-color: #e1251b;
+  position: absolute;
+  left: 120rpx;
+  bottom: 0;
+  width: 38rpx;
+  height: 38rpx;
+  text-align: center;
+  line-height: 39rpx;
+  border-radius: 38rpx;
+}
+.shopping-cart .rough .calculation.data-v-f491adea {
+  height: 90rpx;
+  position: absolute;
+  left: 180rpx;
+}
+.shopping-cart .rough .calculation .total-price.data-v-f491adea {
+  line-height: 40rpx;
+}
+.shopping-cart .rough .calculation .total-price .name.data-v-f491adea {
+  font-size: 24rpx;
+}
+.shopping-cart .rough .calculation .total-price .number.data-v-f491adea {
+  font-size: 26rpx;
+}
+.shopping-cart .rough .calculation .distribution .name.data-v-f491adea {
+  font-size: 24rpx;
+}
+.shopping-cart .rough .calculation .distribution .number.data-v-f491adea {
+  font-size: 26rpx;
+}
+.shopping-cart .rough .settlement.data-v-f491adea {
+  border-top-right-radius: 90rpx;
+  border-bottom-right-radius: 90rpx;
+  line-height: 90rpx;
+  padding: 0 40rpx;
+  height: 90rpx;
+  font-size: 26rpx;
+  background-image: linear-gradient(to right, #e83200, #f0a40a);
+  position: absolute;
+  right: 0;
+  border-left: 10rpx solid #e1e0d9;
+}
+

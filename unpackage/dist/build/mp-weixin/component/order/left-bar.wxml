@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['jump']]],['touchmove',[['',['$event']]]]]}}" class="{{['left-bar','data-v-549ec8d4',(light_up==idr)?'highlight':'']}}" bindtap="__e" catchtouchmove="__e">{{text+''}}</view>

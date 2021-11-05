@@ -1,0 +1,75 @@
+.choice.data-v-33d707c4 {
+  position: fixed;
+  z-index: 1000;
+}
+.choice .mask.data-v-33d707c4 {
+  background-color: rgba(0, 0, 0, 0.4);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 750rpx;
+  height: 100vh;
+  z-index: 1001;
+}
+.choice .option.data-v-33d707c4 {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  border-radius: 25rpx;
+  background-color: #f4f4f4;
+  width: 670rpx;
+  z-index: 1002;
+  overflow: hidden;
+}
+.choice .option .tips.data-v-33d707c4 {
+  color: white;
+  background-image: linear-gradient(to right, #e83200, #f0a40a);
+  font-weight: 800;
+  padding: 10rpx 0;
+  text-align: center;
+  font-size: 22rpx;
+  letter-spacing: 1rpx;
+  box-shadow: 0 0 20rpx 0 #ff7626;
+}
+.choice .option .box.data-v-33d707c4 {
+  padding: 15rpx 35rpx;
+}
+.choice .option .box .text.data-v-33d707c4 {
+  font-weight: 800;
+  padding-bottom: 15rpx;
+  margin-bottom: 20rpx;
+  border-bottom: 3rpx solid #a3a3a3;
+}
+.choice .option .box .scroll-view.data-v-33d707c4 {
+  height: 33vh;
+}
+.choice .option .box .bottom.data-v-33d707c4 {
+  position: relative;
+  display: flex;
+  padding: 65rpx 0 10rpx;
+  border-top: 5rpx solid #eeeeee;
+}
+.choice .option .box .bottom .summary .company.data-v-33d707c4 {
+  font-size: 32rpx;
+  color: #e1251b;
+}
+.choice .option .box .bottom .summary .price.data-v-33d707c4 {
+  font-size: 44rpx;
+  color: #e1251b;
+}
+.choice .option .box .bottom .add.data-v-33d707c4 {
+  padding: 8rpx 28rpx 18rpx 20rpx;
+  position: absolute;
+  color: white;
+  bottom: 20rpx;
+  right: 10rpx;
+  border-radius: 20rpx;
+  background-image: linear-gradient(to right, #e83200, #f0a40a);
+}
+.choice .option .box .bottom .add .plus.data-v-33d707c4 {
+  font-weight: 800;
+  font-size: 40rpx;
+}
+

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "inside-car": "/component/shopping-cart/inside-car"
+  }
+}

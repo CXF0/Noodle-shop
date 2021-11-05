@@ -1,0 +1,16 @@
+.finishing.data-v-ac817784 {
+  margin-top: 24rpx;
+}
+.finishing .bottom.data-v-ac817784 {
+  position: relative;
+  height: 160rpx;
+}
+.finishing .bottom .bottom-line.data-v-ac817784 {
+  width: 70%;
+  border-top: 8rpx solid #dadada;
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+

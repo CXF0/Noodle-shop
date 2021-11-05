@@ -1,0 +1,1 @@
+<view class="index"><banner vue-id="8dd740cc-1" bind:__l="__l"></banner><order class="vue-ref" vue-id="8dd740cc-2" data-ref="order" bind:__l="__l"></order><shopping-cart vue-id="8dd740cc-3" bind:__l="__l"></shopping-cart></view>
